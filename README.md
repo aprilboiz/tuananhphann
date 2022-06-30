@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tuan Anh from [Saigon University (SGU)](https://sgu.edu.vn/)
+- 👋 Hi, I’m [Tuan Anh](https://www.facebook.com/imtuananhph/) from [Saigon University (SGU)](https://sgu.edu.vn/)
 - 👀 My major is Information Technology
 - 📫 Mail: phantuananh0202@gmail.com
 
