@@ -3,13 +3,13 @@
 - 📫 Mail: phantuananh0202@gmail.com
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=tuananhphann&show_icons=True&theme=radical" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=aprilboiz&show_icons=True&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuananhphann&layout=compact" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aprilboiz&layout=compact" />
 </a>
 
 <!---
-tuananhphann/tuananhphann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+aprilboiz/aprilboiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
