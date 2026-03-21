@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello,%20I'm%20Tuan%20Anh!%20%E2%9A%A1%EF%B8%8F&fontSize=60&fontAlignY=38&animation=twinkling&theme=tokyonight" alt="Tuan Anh Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello,%20I'm%20Tuan%20Anh!&fontSize=60&fontAlignY=38&animation=twinkling&theme=tokyonight" alt="Tuan Anh Header" />
 </div>
 
 <div align="center">
   <h3><b>Software Engineer | Backend Developer</b></h3>
-  <p><i>Building reliable backends and continuously learning the art of system design.</i></p>
+  <!-- <p><i>Building reliable backends, optimizing system performance, and mastering the art of system design.</i></p> -->
 
   <div align="center">
     <a href="https://www.linkedin.com/in/imtuananhph/" target="_blank">
@@ -18,46 +18,46 @@
 
 ---
 
-## ⚡ The Engineer Mindset: Transitioning to Full-Time
+## About me
 
-I am a freshly graduated **Software Engineer** with a strong passion for backend development. Transitioning from my academic roots, I am now dedicated to mastering systems integration and complex problem-solving.
+I am a **Software Engineer** with hands-on experience in developing scalable ERP solutions and multi-tenant SaaS platforms.
 
-- 🎯 **Current Focus:** Deepening my knowledge in **.NET, Spring Boot**, and database architecture.
-- 🧠 **Philosophy:** Keep it simple, scalable, and secure. True mastery is understanding the underlying principles that make software work, not just knowing syntax.
-- 💬 **Ask me about:** C#, Java, database queries, or my journey as a Junior Software Engineer.
+- 🎯 **Current Focus:** Deepening my expertise in **Java (Spring Boot), Python, Golang, and .NET (ASP.NET, EF Core)**, and high-performance database architecture.
+- 🧠 **Philosophy:** Keep it simple, scalable, and secure. True mastery is understanding the underlying principles that make software work - not just knowing the syntax.
 
 ---
 
-## 🛠️ The Tech Arsenal (Core Stack)
-
-I use the best tools to build solid foundations. Here is my current arsenal, organized for clarity:
+## My Tech Stacks
 
 <div align="center">
   <p><strong>💻 Programming Languages</strong></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,java,python,go,js,ts&theme=dark" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=java,cs,python,go,js,ts&theme=dark" alt="Languages" />
   </a>
-  
-  <br><br>
-  
+    
   <p><strong>⚙️ Frameworks & Databases</strong></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,spring,mysql,postgres&theme=dark" alt="Frameworks and Databases" />
+    <img src="https://skillicons.dev/icons?i=spring,dotnet,angular,nextjs,postgres,mysql&theme=dark" alt="Frameworks and Databases" />
   </a>
-  
-  <br><br>
-  
+    
   <p><strong>🔧 Tools & Platforms</strong></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,docker,postman,github&theme=dark" alt="Tools" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,docker,postman,github,git&theme=dark" alt="Tools" />
   </a>
 </div>
 
 ---
 
-## 📈 Activity & System Metrics
+## My Hobby Projects & Experiments
 
-Even when repositories remain private, I'm always refining architecture and optimizing systems behind the scenes.
+- 🎵 **DiscordBot:** A fully functional Discord music bot built to handle real-time audio streaming and server commands.
+- 🤖 **JobMatch:** An AI-powered platform designed to streamline the recruitment and job-finding process.
+- 📝 **Text-Summarization:** A custom summarization tool built entirely from scratch. Powered by my own implementation of the TF-IDF algorithm to process text without relying on heavy machine learning libraries.
+- 📅 **ScheduleToCalendar:** A practical automation script that parses complex school schedules and integrates seamlessly with the Google Calendar API for automated syncing.
+
+---
+
+## Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aprilboiz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="GitHub Stats" />
